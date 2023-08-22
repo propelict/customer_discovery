@@ -1,0 +1,5 @@
+# Customer Discovery
+## Course Overview
+Getting to know your customers and discovering their motivations, challenges, and goals is at the root of creating traction and generating growth for your business. Without the proper knowledge and skills to directly engage with customers, most startups will fail to acquire the insights that reveal what their customers truly want.
+
+This course is intended to ensure you, as founders and startups in Propel’s Traction and Growth programs, get the most out of customer discovery. Whether you are new to the subject or are seeking a refresher, this course will provide a comprehensive understanding of Customer Discovery and present opportunities to dive deep into the practicalities of securing and conducting interviews that can render valuable information for your startup.
